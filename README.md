@@ -1,1 +1,1 @@
-# predicting-bankruptcy-in-poland
+# Predicting Bankruptcy in Poland
